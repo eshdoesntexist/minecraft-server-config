@@ -52,7 +52,7 @@ the extract for which is as follows:
 
 # custom commands available
 
-the mods enable to following commands:
+the mods enable following commands:
 
 | Command                   | Description                                                                                    | Mod Name                                                |
 | ------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
